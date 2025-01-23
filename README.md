@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rehman Ali</h1>
 
-<h3 align="center">Full Stack React.js, Node.js, Nest.js, Java SpringBoot Developer and also a Blockchain Enthusiast Living in Lahore, Pakistan.</h3>
+<h3 align="center">Full Stack React.js, Node.js, Nest.js, Java SpringBoot Developer and also a Blockchain Enthusiast Living in Riyadh, Saudi Arabia</h3>
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/PcKC9fLGwWSEDw0Mrj/giphy.gif" height="27px" width="25px"></h2>
 
