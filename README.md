@@ -1,7 +1,7 @@
 ### Hi, I'm Rehman 👋
 
-Senior Full Stack AI Engineer with 7+ years shipping production systems —
-from backend architecture to LLM-powered platforms — for teams across
+Senior Full Stack AI Engineer with 7+ years shipping production systems
+from backend architecture to LLM-powered platforms for teams across
 MENA, North America, and APAC.
 
 - 🤖 Building AI systems that reach production: RAG, agentic workflows, LLM orchestration
@@ -14,15 +14,15 @@ MENA, North America, and APAC.
 
 #### Where I focus
 
-**AI Systems** — LLM integration, RAG architecture, agentic workflows, vector search, prompt engineering
+**AI Systems:** LLM integration, RAG architecture, agentic workflows, vector search, prompt engineering
 
-**Backend** — API design, microservices, distributed systems, database architecture
+**Backend:** API design, microservices, distributed systems, database architecture
 
-**Cloud & Infra** — containerized deployment, CI/CD, high-availability systems
+**Cloud & Infra:** containerized deployment, CI/CD, high-availability systems
 
-**Frontend** — modern component architecture, performance optimization
+**Frontend:** modern component architecture, performance optimization
 
-I adapt my toolset to the problem — recent work spans Python and Node.js
+I adapt my toolset to the problem recent work spans Python and Node.js
 backends, React/Next.js frontends, and Java services, depending on what
 the system called for.
 
