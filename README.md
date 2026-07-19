@@ -1,57 +1,39 @@
-<h1 align="center">Hi 👋, I'm Rehman Ali</h1>
+### Hi, I'm Rehman 👋
 
-<h3 align="center">
-7+ Years Experience | Full Stack Developer | AI/LLMs & Web3 Engineer
-</h3>
+Senior Full Stack AI Engineer with 7+ years shipping production systems —
+from backend architecture to LLM-powered platforms — for teams across
+MENA, North America, and APAC.
 
-<p align="center">
-I build scalable, AI-powered and blockchain-enabled products for startups and enterprises.
-</p>
-
----
-
-<h2>👨‍💻 About Me</h2>
-
-- 💼 **7+ years** building production-grade web platforms  
-- 🤖 AI-first development: LLMs, RAG, automation  
-- 🔗 Web3, DeFi & NFT platform development  
-- ☁️ Cloud-native systems with DevOps best practices  
-- 📍 Riyadh, Saudi Arabia  
+- 🤖 Building AI systems that reach production: RAG, agentic workflows, LLM orchestration
+- 🏗️ Full-stack engineering: scalable APIs, distributed systems, cloud-native infrastructure
+- ⚡ Track record: 99.9% uptime platforms, 60%+ latency reductions, systems serving 1M+ users
+- 📍 Riyadh, Saudi Arabia · Open to remote roles
+- 🌐 [rehmanali.dev](https://www.rehmanali.dev) · 📧 dev.rehmanali@gmail.com
 
 ---
 
-<h2>🧠 Core Expertise</h2>
+#### Where I focus
 
-- **Full Stack:** React, Next.js, Node.js, NestJS, FastAPI, Java Spring Boot
-- **AI / LLMs:** OpenAI, LangChain, RAG, Vector DBs  
-- **Web3:** DeFi, NFTs, Wallet integrations, Web3Auth  
-- **Cloud:** AWS, GCP, Docker, Kubernetes  
+**AI Systems** — LLM integration, RAG architecture, agentic workflows, vector search, prompt engineering
 
----
+**Backend** — API design, microservices, distributed systems, database architecture
 
-<h2>🚀 What I Build</h2>
+**Cloud & Infra** — containerized deployment, CI/CD, high-availability systems
 
-- AI-powered SaaS & enterprise platforms  
-- DeFi dashboards, staking & yield systems  
-- NFT minting & marketplaces  
-- LLM chatbots & document intelligence  
-- Scalable microservices & APIs  
+**Frontend** — modern component architecture, performance optimization
+
+I adapt my toolset to the problem — recent work spans Python and Node.js
+backends, React/Next.js frontends, and Java services, depending on what
+the system called for.
 
 ---
 
-<h2 align="center">
-Let’s Connect 
-<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px">
-</h2>
+#### Recent focus
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rehman-ali-673342177">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/devrehmanali">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:dev.rehmanali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+- Enterprise AI platforms with multi-agent architectures and document intelligence
+- RAG systems processing 100K+ documents/month in production
+- Distributed, high-availability systems for regulated industries (healthcare, fintech)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/rehman-ali-673342177) · [Portfolio](https://www.rehmanali.dev)
